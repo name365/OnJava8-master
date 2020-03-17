@@ -9,7 +9,7 @@
 
 ## 传送门
 
-- 目录阅读：[进入](https://github.com/LingCoder/OnJava8/blob/master/SUMMARY.md)
+- 目录阅读：[进入](https://github.com/name365/OnJava8-master/blob/master/SUMMARY.md)
 
 - GitHub Pages 完整阅读：[进入](https://lingcoder.github.io/OnJava8/)
 
